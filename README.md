@@ -14,11 +14,7 @@
 
 ## 👋 关于我
 
-- 🔭 正在做 **Toolbox** —— Tauri + React 的跨平台个人工具箱
 - 🧩 喜欢把日常的小需求做成顺手的小工具
-- 🌱 最近在写 **TypeScript / Rust / Next.js**
-- 🌐 博客：[blog.everxys.top](https://blog.everxys.top)
-- 📍 China
 
 ## 🧰 技术栈
 
@@ -31,38 +27,26 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## 🚀 开源项目
+## 🚀 项目
 
 | 项目 | 简介 |
 | :-- | :-- |
+| **Toolbox** 🔒 | 跨平台个人工具箱（Tauri v2 + React + TypeScript），含网易云歌单批量下载等 |
+| **Healthy** 🔒 | 饮食与营养追踪系统（pnpm monorepo） |
+| **Navvo** 🔒 | Android-first、local-first、AI 辅助的个人物品管理应用 |
 | [**Open Debate**](https://github.com/everxys/open-debate) | 基于 Next.js + PostgreSQL 的多轮 AI 辩论应用 |
+
+<details>
+<summary>🧩 更多项目</summary>
+
+| 项目 | 简介 |
+| :-- | :-- |
+| **Toolbox Builder** 🔒 | Toolbox 的本地构建 / 安装控制台，一键构建并安装桌面 MSI 与 Android APK |
+| **Healthy Admin** 🔒 | Healthy 的饮食管理后台 |
+| **Healthy Android** 🔒 | Healthy 的 Android 客户端 |
+| **Healthy Landing** 🔒 | Healthy 产品官网（Next.js） |
 | [**Captcha**](https://github.com/everxys/captcha) | 问卷访问验证系统 · [在线体验](https://captcha-eight-rho.vercel.app) |
 | [**Questionnaire**](https://github.com/everxys/questionnaire) | AI 问卷应用 · [在线体验](https://questionnaire-murex-phi.vercel.app) |
 | [**Skills**](https://github.com/everxys/skills) | 个人 Agent 技能与自动化脚本库 |
 
-<details>
-<summary>🔒 还在打磨的项目</summary>
-
-- **Toolbox** — Tauri v2 + React + TypeScript 的跨平台个人工具箱（含网易云歌单批量下载等）
-- **Toolbox Builder** — Toolbox 的本地构建 / 安装控制台，一键出桌面 MSI 与 Android APK
-- **Healthy** — 饮食与营养追踪系统（pnpm monorepo）
-- **Navvo** — Android-first、local-first、AI 辅助的个人物品管理应用
-
 </details>
-
-## 📊 GitHub 数据
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=everxys&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=everxys&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-
-</div>
-
----
-
-<div align="center">
-
-<sub>用 ❤️ 和代码，把想法变成能用的东西。</sub>
-
-</div>
