@@ -2,7 +2,7 @@
 
 # Hi, I'm everxys 👋
 
-**Motivated programmer · 把想法做成能用的工具**
+**Motivated programmer · turning ideas into tools that work**
 
 [![Blog](https://img.shields.io/badge/Blog-blog.everxys.top-6366F1?style=flat-square&logo=google-chrome&logoColor=white)](https://blog.everxys.top)
 [![GitHub](https://img.shields.io/badge/GitHub-everxys-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/everxys)
@@ -12,13 +12,13 @@
 
 ---
 
-## 👋 关于我
+## 👋 About Me
 
-- 🧩 喜欢把日常的小需求做成顺手的小工具
+- 🧩 I like turning small everyday needs into handy little tools
 
-## 🧰 技术栈
+## 🧰 Tech Stack
 
-**语言**
+**Languages**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
@@ -26,7 +26,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-**框架 / 运行时**
+**Frameworks & Runtimes**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -35,39 +35,39 @@
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
-**数据与中间件**
+**Data & Messaging**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 
-**基础设施**
+**Infrastructure**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## 🚀 项目
+## 🚀 Projects
 
-| 项目 | 简介 |
+| Project | Description |
 | :-- | :-- |
-| **Toolbox** 🔒 | 跨平台个人工具箱（Tauri v2 + React + TypeScript），含网易云歌单批量下载等 |
-| **Healthy** 🔒 | 饮食与营养追踪系统（pnpm monorepo） |
-| **Navvo** 🔒 | Android-first、local-first、AI 辅助的个人物品管理应用 |
-| [**Open Debate**](https://github.com/everxys/open-debate) | 基于 Next.js + PostgreSQL 的多轮 AI 辩论应用 |
+| **Toolbox** 🔒 | Cross-platform personal toolbox (Tauri v2 + React + TypeScript), with batch playlist downloading and more |
+| **Healthy** 🔒 | Diet and nutrition tracking system (pnpm monorepo) |
+| **Navvo** 🔒 | Android-first, local-first, AI-assisted personal item manager |
+| [**Open Debate**](https://github.com/everxys/open-debate) | Multi-round AI debate app built with Next.js and PostgreSQL |
 
 <details>
-<summary>🧩 更多项目</summary>
+<summary>🧩 More Projects</summary>
 
-| 项目 | 简介 |
+| Project | Description |
 | :-- | :-- |
-| **Toolbox Builder** 🔒 | Toolbox 的本地构建 / 安装控制台，一键构建并安装桌面 MSI 与 Android APK |
-| **Healthy Admin** 🔒 | Healthy 的饮食管理后台 |
-| **Healthy Android** 🔒 | Healthy 的 Android 客户端 |
-| **Healthy Landing** 🔒 | Healthy 产品官网（Next.js） |
-| [**Captcha**](https://github.com/everxys/captcha) | 问卷访问验证系统 · [在线体验](https://captcha-eight-rho.vercel.app) |
-| [**Questionnaire**](https://github.com/everxys/questionnaire) | AI 问卷应用 · [在线体验](https://questionnaire-murex-phi.vercel.app) |
-| [**Skills**](https://github.com/everxys/skills) | 个人 Agent 技能与自动化脚本库 |
+| **Toolbox Builder** 🔒 | Local build and install console for Toolbox: one click to build and install the desktop MSI and Android APK |
+| **Healthy Admin** 🔒 | Admin dashboard for Healthy |
+| **Healthy Android** 🔒 | Android client for Healthy |
+| **Healthy Landing** 🔒 | Healthy product landing page (Next.js) |
+| [**Captcha**](https://github.com/everxys/captcha) | Quiz access verification system · [Live demo](https://captcha-eight-rho.vercel.app) |
+| [**Questionnaire**](https://github.com/everxys/questionnaire) | AI questionnaire app · [Live demo](https://questionnaire-murex-phi.vercel.app) |
+| [**Skills**](https://github.com/everxys/skills) | Personal collection of agent skills and automation scripts |
 
 </details>
